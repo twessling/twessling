@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @twessling, a backend developer and a strong #2 in a team. I have a master's degree in AI, but I have unfortunately not used much of that. I have, however, gathered a whole lot of experience and expertise in scalability, fault-tolerance, concurrency & paralellism. :) I prefer golang for backend software.
+Also, I ❤️ gaming.
 
 - 👀 I’m interested in game development, the entire process. I also like concurrency/paralellism and the scalable architectures that follow from that, this is where most of my expertise lies.
 
