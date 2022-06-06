@@ -3,7 +3,7 @@ Also, I ❤️ gaming.
 
 - 👀 I’m interested in game development, the entire process. I also like concurrency/paralellism and the scalable architectures that follow from that, this is where most of my expertise lies.
 
-- 🌱 I’m currently learning Unity3D (with C#), and trying to get a game released on steam.
+- 🌱 I’m currently learning Unity3D (with C#), and trying to get a game playable and released on steam.
 
 - 💞️ Any job offerings, I am only open for fully remote positions. Preferrably Golang for backend development, or Unity3D (C#) for game development. Given that I am (soon) moving to Asia the fully remote part is a hard requirement, I am not willing to relocate (as my spot there is gorgeous :) )
 
