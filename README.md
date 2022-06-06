@@ -6,6 +6,6 @@
 
 - 💞️ Any job offerings, I am only open for fully remote positions. Preferrably Golang for backend development, or Unity3D (C#) for game development. Given that I am (soon) moving to Asia the fully remote part is a hard requirement, I am not willing to relocate (as my spot there is gorgeous :) )
 
-- 📫 You can reach me by sending an email to twesslin at gmail dot com, or find me on LinkedIn (https://www.linkedin.com/in/ton-wessling-70600110/)
+- 📫 You can reach me by sending an email to twesslin at gmail dot com (yes, that's without the 'g'), or find me on LinkedIn (https://www.linkedin.com/in/ton-wessling-70600110/)
 
 - ❓ You don't see any repositories here because I keep them all private, they are my own projects or recruiting exercises.
