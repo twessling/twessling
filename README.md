@@ -9,4 +9,4 @@ Also, I ❤️ gaming.
 
 - 📫 You can reach me by sending an email to twesslin@gmail.com (yes, that's without the 'g'), or find me on LinkedIn (https://www.linkedin.com/in/ton-wessling-70600110/)
 
-- ❓ You don't see any repositories here because I keep them all private, they are my own projects or recruiting exercises.
+- ❓ You don't see any repositories here because I keep them all private, they are my own projects or recruiting exercises. I can open some up upon request.
